@@ -1,0 +1,3 @@
+D:/4-Favorites/Fundamenals/1-C++_Course/Prefix-Expression-Tree-Evaluation/cmake-build-debug/CMakeFiles/Prefix_Expression_Tree_Evaluation.dir
+D:/4-Favorites/Fundamenals/1-C++_Course/Prefix-Expression-Tree-Evaluation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/4-Favorites/Fundamenals/1-C++_Course/Prefix-Expression-Tree-Evaluation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

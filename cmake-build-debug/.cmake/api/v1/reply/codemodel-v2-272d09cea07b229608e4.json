@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Prefix_Expression_Tree_Evaluation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Prefix_Expression_Tree_Evaluation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prefix_Expression_Tree_Evaluation-Debug-09830c148f1fa978c054.json",
+					"name" : "Prefix_Expression_Tree_Evaluation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/4-Favorites/Fundamenals/1-C++_Course/Prefix-Expression-Tree-Evaluation/cmake-build-debug",
+		"source" : "D:/4-Favorites/Fundamenals/1-C++_Course/Prefix-Expression-Tree-Evaluation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
